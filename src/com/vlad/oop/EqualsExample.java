@@ -1,4 +1,4 @@
-package com.vlad.opp;
+package com.vlad.oop;
 
 import java.util.Scanner;
 
