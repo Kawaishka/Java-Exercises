@@ -1,26 +1,46 @@
 # Java-Exercises
 
-A learning repository for practicing the Java programming language.  
-Here I collect different exercises and small projects created during my studies.
+Learning repository with different Java exercises and small projects.  
+This repository shows my progress while studying Java basics, loops, arrays, OOP, and more.
 
-## Structure
-- **Calculator/** – a simple calculator (operations + - * /)
-- **Loops/** – examples of `for`, `while`, `do-while` loops
-- **Arrays/** – working with 1D and 2D arrays
-- **OOP/** – exercises about Object-Oriented Programming
+## 📂 Structure
 
-## Goals
-- Strengthen knowledge of Java syntax
-- Practice with arrays, loops, and conditions
-- Learn how to write classes and objects
-- Understand the basics of OOP principles
+- **basics/**
+  - [HelloWorld.java](src/com/vlad/basics/HelloWorld.java)
+  - [VariablesExample.java](src/com/vlad/basics/VariablesExample.java)
+  - [DataTypesExample.java](src/com/vlad/basics/DataTypesExample.java)
 
-## Technologies
-- Java 21
-- IntelliJ IDEA Community Edition
-- Git/GitHub for version control
+- **loops/**
+  - [LoopsExample.java](src/com/vlad/loops/LoopsExample.java)
+  - [LoopsPractice.java](src/com/vlad/loops/LoopsPractice.java)
+  - [WhileLoopExample.java](src/com/vlad/loops/WhileLoopExample.java)
+  - [SwitchCaseExample.java](src/com/vlad/loops/SwitchCaseExample.java)
 
-## Future Plans
-- Add examples with file handling
-- Create small projects with user interaction
-- Start learning Java Collections Framework
+- **arrays/**
+  - [OneDimensionalArrays.java](src/com/vlad/arrays/OneDimensionalArrays.java)
+  - [MultidimensionalArrays.java](src/com/vlad/arrays/MultidimensionalArrays.java)
+  - [ArraysDemo.java](src/com/vlad/arrays/ArraysDemo.java)
+
+- **calculator/**
+  - [BetterCalculator.java](src/com/vlad/calculator/BetterCalculator.java)
+  - [SimpleCalculator.java](src/com/vlad/calculator/SimpleCalculator.java)
+
+- **oop/**
+  - [EqualsExample.java](src/com/vlad/oop/EqualsExample.java)
+
+---
+
+## 🎯 Goals
+- Practice Java syntax and programming basics  
+- Learn loops, arrays, and conditional statements  
+- Write small console applications  
+- Understand object-oriented programming (OOP)  
+
+## 🛠️ Technologies
+- Java 17  
+- IntelliJ IDEA Community Edition  
+- Git & GitHub  
+
+---
+
+🚀 This repository demonstrates my learning progress in Java step by step.
