@@ -19,3 +19,8 @@ Here I collect different exercises and small projects created during my studies.
 - Java 21
 - IntelliJ IDEA Community Edition
 - Git/GitHub for version control
+
+## Future Plans
+- Add examples with file handling
+- Create small projects with user interaction
+- Start learning Java Collections Framework
