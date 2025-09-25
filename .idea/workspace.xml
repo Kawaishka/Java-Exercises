@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32tE8rcegOnPhLDkZ883cEyal2m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BetterCalculator.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Datatype.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NewProgram.executor": "Run",
+    "Application.Switch_case.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.Zyklen.executor": "Run",
+    "Application.Zyklen1.executor": "Run",
+    "Application.betterCalculator.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.com.vlad.Main.executor": "Run",
+    "Application.equals.executor": "Run",
+    "Application.schleifen.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Aria1/IdeaProjects/Ato/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.Datatype" />
+      <module name="Ato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.arrays.Main" />
+      <module name="Ato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.calculator" />
+      <module name="Ato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.equals" />
+      <module name="Ato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="schleifen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.schleifen" />
+      <module name="Ato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.equals" />
+        <item itemvalue="Application.schleifen" />
+        <item itemvalue="Application.calculator" />
+        <item itemvalue="Application.Datatype" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Aria1\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="" />
+      <created>1758231312821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758231312821</updated>
+    </task>
+    <servers />
+  </component>
+</project>
