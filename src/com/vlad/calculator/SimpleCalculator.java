@@ -1,8 +1,8 @@
-package com.vlad;
+package com.vlad.calculator;
 
 import java.util.Scanner;
 
-public class calculator {
+public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

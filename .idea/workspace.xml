@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="Learning Java">
+    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="Add first exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/BetterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/calculator/BetterCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/Datatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/basics/DataTypesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/basics/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/Switch_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/SwitchCaseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/basics/VariablesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/Zyklen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/loops/LoopsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/Zyklen1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/loops/LoopsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/arrays/ArraysDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/calculator/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/EqualsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/schleifen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/loops/WhileLoopExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +31,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kawaishka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kawaishka/Java-Exercises.git&quot;,
+    &quot;accountId&quot;: &quot;b2764eb1-c23d-495c-96c2-14afe50e807e&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -33,50 +62,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BetterCalculator.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.Datatype.executor": "Run",
-    "Application.Example1.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NewProgram.executor": "Run",
-    "Application.Switch_case.executor": "Run",
-    "Application.Variable.executor": "Run",
-    "Application.Zyklen.executor": "Run",
-    "Application.Zyklen1.executor": "Run",
-    "Application.betterCalculator.executor": "Run",
-    "Application.calculator.executor": "Run",
-    "Application.com.vlad.Main.executor": "Run",
-    "Application.equals.executor": "Run",
-    "Application.schleifen.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Aria1/IdeaProjects/Ato/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BetterCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_case.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zyklen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Zyklen1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.betterCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.vlad.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.equals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.schleifen.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aria1/IdeaProjects/Ato/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vlad.Datatype" />
-      <module name="Ato" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vlad.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vlad.arrays.Main" />
+}</component>
+  <component name="RunManager" selected="Application.SimpleCalculator">
+    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.arrays.ArraysDemo" />
       <module name="Ato" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vlad.calculator" />
+    <configuration name="DataTypesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.basics.DataTypesExample" />
       <module name="Ato" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vlad.*" />
+          <option name="PATTERN" value="com.vlad.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vlad.equals" />
+    <configuration name="EqualsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.opp.EqualsExample" />
       <module name="Ato" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vlad.*" />
+          <option name="PATTERN" value="com.vlad.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +138,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="schleifen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vlad.schleifen" />
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.calculator.SimpleCalculator" />
       <module name="Ato" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vlad.*" />
+          <option name="PATTERN" value="com.vlad.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vlad.loops.WhileLoopExample" />
+      <module name="Ato" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vlad.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.equals" />
-        <item itemvalue="Application.schleifen" />
-        <item itemvalue="Application.calculator" />
-        <item itemvalue="Application.Datatype" />
+        <item itemvalue="Application.ArraysDemo" />
+        <item itemvalue="Application.EqualsExample" />
+        <item itemvalue="Application.WhileLoopExample" />
+        <item itemvalue="Application.SimpleCalculator" />
+        <item itemvalue="Application.DataTypesExample" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +193,47 @@
       <option name="project" value="LOCAL" />
       <updated>1758835239097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add first exercises">
+      <option name="closed" value="true" />
+      <created>1758835907824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758835907824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c679f571-3682-445a-81a0-2164db09cd52" value="TOOL_WINDOW" />
+        <entry key="5a0bc96c-854c-42b2-8e66-96e4850c9f22" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5a0bc96c-854c-42b2-8e66-96e4850c9f22">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c679f571-3682-445a-81a0-2164db09cd52">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning Java" />
+    <MESSAGE value="Add first exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add first exercises" />
   </component>
 </project>

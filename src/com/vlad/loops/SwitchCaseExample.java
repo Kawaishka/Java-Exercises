@@ -1,7 +1,7 @@
-package com.vlad;
+package com.vlad.loops;
 import java.util.Scanner;
 
-public class Switch_case {
+public class SwitchCaseExample {
     public static void main(String[] args) {
         //Switch-case
         Scanner scanner = new Scanner(System.in);

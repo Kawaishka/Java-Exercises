@@ -1,8 +1,8 @@
-package com.vlad;
+package com.vlad.opp;
 
 import java.util.Scanner;
 
-public class equals {
+public class EqualsExample {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

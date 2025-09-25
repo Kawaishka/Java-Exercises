@@ -1,6 +1,6 @@
 package com.vlad.arrays;
 
-public class Main {
+public class ArraysDemo {
     public static void main(String[] args) {
         //Arrays
         int[] numbers = new int[5];

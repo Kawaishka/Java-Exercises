@@ -1,6 +1,6 @@
-package com.vlad;
+package com.vlad.loops;
 
-public class Zyklen1 {
+public class LoopsPractice {
     public static void main(String[] args) {
 
          for(float i = 5; i <= 25; i += 5) {

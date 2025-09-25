@@ -1,4 +1,4 @@
-package com.vlad;
+package com.vlad.calculator;
 
 import java.util.Scanner;
 

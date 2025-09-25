@@ -1,8 +1,8 @@
-package com.vlad;
+package com.vlad.basics;
 
 import java.util.Scanner;
 
-public class Datatype {
+public class DataTypesExample {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 //        System.out.print("Type your name: ");

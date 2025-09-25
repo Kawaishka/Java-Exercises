@@ -1,6 +1,6 @@
-package com.vlad;
+package com.vlad.loops;
 
-public class schleifen {
+public class WhileLoopExample {
     public static void main (String[] args) {
         //if-else
 
