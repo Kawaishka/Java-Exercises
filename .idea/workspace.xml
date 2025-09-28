@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="Restructure project: organize files into packages and rename classes">
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/ExercisesWithForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/ExercisesWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/CollectionArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/collection/CollectionArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vlad/CollectionLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/collection/CollectionLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +53,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="32tE8rcegOnPhLDkZ883cEyal2m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,10 +64,13 @@
   "keyToString": {
     "Application.BetterCalculator.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.CollectionLinkedList.executor": "Run",
     "Application.Collections.executor": "Run",
     "Application.Datatype.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example2.executor": "Run",
+    "Application.ExercisesWithForEach.executor": "Run",
+    "Application.ExercisesWithStreams.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NewProgram.executor": "Run",
@@ -72,6 +83,7 @@
     "Application.calculator.executor": "Run",
     "Application.com.vlad.Main.executor": "Run",
     "Application.equals.executor": "Run",
+    "Application.exercises.executor": "Run",
     "Application.schleifen.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -212,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758838557204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Restructure project: organize files into packages and rename classes">
+      <option name="closed" value="true" />
+      <created>1759095034488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759095034488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

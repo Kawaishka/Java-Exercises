@@ -1,4 +1,4 @@
-package com.vlad;
+package com.vlad.collection;
 
 import java.util.ArrayList;
 
