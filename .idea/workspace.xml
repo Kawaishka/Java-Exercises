@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="Restructure project: organize files into packages and rename classes" />
+    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="Restructure project: organize files into packages and rename classes">
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/Collections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,43 +52,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BetterCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Datatype.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zyklen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zyklen1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.betterCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.vlad.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.equals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.schleifen.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aria1/IdeaProjects/Ato/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BetterCalculator.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Collections.executor": "Run",
+    "Application.Datatype.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NewProgram.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.Switch_case.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.Zyklen.executor": "Run",
+    "Application.Zyklen1.executor": "Run",
+    "Application.betterCalculator.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.com.vlad.Main.executor": "Run",
+    "Application.equals.executor": "Run",
+    "Application.schleifen.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Aria1/IdeaProjects/Ato/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.SimpleCalculator">
+}]]></component>
+  <component name="RunManager">
     <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vlad.arrays.ArraysDemo" />
       <module name="Ato" />
@@ -153,10 +161,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.ArraysDemo" />
         <item itemvalue="Application.EqualsExample" />
         <item itemvalue="Application.WhileLoopExample" />
-        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.DataTypesExample" />
       </list>
     </recent_temporary>
@@ -196,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758838134669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Restructure project: organize files into packages and rename classes">
+      <option name="closed" value="true" />
+      <created>1758838557204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758838557204</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
