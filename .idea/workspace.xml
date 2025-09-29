@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="Restructure project: organize files into packages and rename classes">
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/ExercisesWithForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/ExercisesWithStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vlad/methods/Main.java" afterDir="false" />
+    <list default="true" id="2ef5190b-ab76-4433-81a2-61777745b968" name="Changes" comment="New Exercises">
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/oop/transport/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vlad/oop/transport/Transport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vlad/CollectionArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/collection/CollectionArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vlad/CollectionLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vlad/collection/CollectionLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArraysDemo.executor": "Run",
     "Application.BetterCalculator.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CollectionLinkedList.executor": "Run",
@@ -173,8 +170,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.ArraysDemo" />
+        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.EqualsExample" />
         <item itemvalue="Application.WhileLoopExample" />
         <item itemvalue="Application.DataTypesExample" />
@@ -232,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759095034488</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Exercises">
+      <option name="closed" value="true" />
+      <created>1759099342740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759099342740</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +271,7 @@
     <MESSAGE value="Learning Java" />
     <MESSAGE value="Add first exercises" />
     <MESSAGE value="Restructure project: organize files into packages and rename classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Restructure project: organize files into packages and rename classes" />
+    <MESSAGE value="New Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Exercises" />
   </component>
 </project>
